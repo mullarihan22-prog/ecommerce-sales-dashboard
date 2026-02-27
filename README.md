@@ -39,7 +39,7 @@ This project is a Customer and Product Analytics Dashboard built using Power BI.
 
 **🛠 Tools & Technologies**
    
-    Power BI Desktop<br>
+    Power BI Desktop
     DAX (Data Analysis Expressions)<br>
     Data Modeling<br>
     Excel/CSV Data<br>
@@ -48,4 +48,7 @@ This project is a Customer and Product Analytics Dashboard built using Power BI.
     
     Generated Identified top 10 revenue-generating products Measured revenue impact due to cancellations<br>
     Tracked customer retention trends Classified products using ABC analysis Detected high-risk customers based on behavior<br>
-    
+
+**Repository structure**
+Data:
+
