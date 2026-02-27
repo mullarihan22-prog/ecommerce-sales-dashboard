@@ -50,11 +50,11 @@ This project is a Customer and Product Analytics Dashboard built using Power BI.
     Tracked customer retention trends Classified products using ABC analysis Detected high-risk customers based on behavior<br>
 
 **Repository structure**
-**Data**:https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/Customers.csv
-        https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/Orders.csv
-        https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/Products.csv
-**Dashboard**:https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/ecomerce%20sales.pbix
-**Images**:https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/product%20report.png
-        https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/customer%20report.png
-        https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/cancellation%20report.png
+**Data**:https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/Customers.csv<br>
+        https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/Orders.csv<br>
+        https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/Products.csv<br>
+**Dashboard**:https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/ecomerce%20sales.pbix<br>
+**Images**:https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/product%20report.png<br>
+        https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/customer%20report.png<br>
+        https://github.com/mullarihan22-prog/ecommerce-sales-dashboard/blob/main/cancellation%20report.png<br>
 
