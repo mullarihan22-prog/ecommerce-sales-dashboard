@@ -46,6 +46,6 @@ This project is a Customer and Product Analytics Dashboard built using Power BI.
 
 **💡 Business Insights**
     
-    Generated Identified top 10 revenue-generating products Measured revenue impact due to cancellations <br>
+    Generated Identified top 10 revenue-generating products Measured revenue impact due to cancellations<br>
     Tracked customer retention trends Classified products using ABC analysis Detected high-risk customers based on behavior<br>
     
