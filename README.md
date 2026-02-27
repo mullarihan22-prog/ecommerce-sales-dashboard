@@ -31,11 +31,3 @@ This project is a Customer and Product Analytics Dashboard built using Power BI.
     
     Generated Identified top 10 revenue-generating products Measured revenue impact due to cancellations Tracked customer retention trends Classified products         using ABC analysis Detected high-risk customers based on behavior
     
-**🎯 Business Value**
-  
-  This dashboard helps management:
-  Monitor customer loyalty and retention
-  Identify high-performing and low-performing products
-  Reduce revenue loss from cancellations
-  Improve pricing and product strategy
-  Make data-driven strategic decisions
